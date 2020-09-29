@@ -6,7 +6,7 @@ import android.content.res.TypedArray;
 import android.text.TextPaint;
 import android.util.AttributeSet;
 
-import com.hjq.widget.R;
+import com.wzly.widget.R;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.AppCompatEditText;

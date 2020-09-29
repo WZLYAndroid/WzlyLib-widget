@@ -15,7 +15,7 @@ import android.view.ViewGroup;
 import android.view.animation.AccelerateInterpolator;
 import android.view.animation.OvershootInterpolator;
 
-import com.hjq.widget.R;
+import com.wzly.widget.R;
 
 
 /**

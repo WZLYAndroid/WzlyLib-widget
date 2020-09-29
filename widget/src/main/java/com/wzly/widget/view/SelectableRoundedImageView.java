@@ -25,7 +25,7 @@ import android.graphics.drawable.LayerDrawable;
 import android.net.Uri;
 import android.util.AttributeSet;
 
-import com.hjq.widget.R;
+import com.wzly.widget.R;
 
 import androidx.appcompat.widget.AppCompatImageView;
 

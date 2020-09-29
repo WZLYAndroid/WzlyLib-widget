@@ -5,10 +5,10 @@ import android.content.res.TypedArray;
 import android.util.AttributeSet;
 import android.widget.FrameLayout;
 
+import com.wzly.widget.R;
+
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-
-import com.hjq.widget.R;
 
 /**
  *    author : Android 轮子哥

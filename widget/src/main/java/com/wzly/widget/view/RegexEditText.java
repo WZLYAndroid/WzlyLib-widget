@@ -7,7 +7,7 @@ import android.text.Spanned;
 import android.text.TextUtils;
 import android.util.AttributeSet;
 
-import com.hjq.widget.R;
+import com.wzly.widget.R;
 import com.wzly.widget.view.fonttextview.BaseFontEditView;
 
 import java.util.regex.Pattern;
