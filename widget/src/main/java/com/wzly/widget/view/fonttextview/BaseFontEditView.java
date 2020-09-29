@@ -45,15 +45,7 @@ public class BaseFontEditView extends AppCompatEditText {
         TypedArray a = context.obtainStyledAttributes(attrs, R.styleable.BaseFontTextView);
         boolean bold = a.getBoolean(R.styleable.BaseFontTextView_font_bold, false);
         setBoldText(bold);
-        int fontType = a.getInteger(R.styleable.BaseFontTextView_font_type, 0);
-        setTypefaceType(fontType);
         a.recycle();
-    }
-
-    /**
-     * 设置字体
-     */
-    public void setTypefaceType(int type) {
     }
 
     /**

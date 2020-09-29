@@ -85,9 +85,10 @@
     <!-- 自定义 字体 TextView -->
     <declare-styleable name="BaseFontTextView">
 
-        <attr name="font_type" format="integer">
-            <enum name="defaultFont" value="0" />
-        </attr>
+        <!-- 字体留给子类去定义枚举 -->
+<!--        <attr name="font_type" format="integer">-->
+<!--            <enum name="defaultFont" value="0" />-->
+<!--        </attr>-->
         <attr name="font_bold" format="boolean" />
         <attr name="font_full" format="boolean" />
         <attr name="font_underline" format="boolean" />

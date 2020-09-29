@@ -75,16 +75,7 @@ public class BaseFontTextView extends AppCompatTextView {
         setUnderline(underline, false);
         boolean bold = a.getBoolean(R.styleable.BaseFontTextView_font_bold, false);
         setBoldText(bold, false);
-        int fontType = a.getInteger(R.styleable.BaseFontTextView_font_type, 0);
-        setTypefaceType(fontType);
         a.recycle();
-    }
-
-
-    /**
-     * 设置字体
-     */
-    public void setTypefaceType(int type) {
     }
 
     /**
