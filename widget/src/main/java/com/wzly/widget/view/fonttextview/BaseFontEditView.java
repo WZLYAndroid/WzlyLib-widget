@@ -37,7 +37,7 @@ public class BaseFontEditView extends AppCompatEditText {
         initAttr(context, attrs);
     }
 
-    private void initAttr(Context context, AttributeSet attrs) {
+    protected void initAttr(Context context, AttributeSet attrs) {
         if (attrs == null) {
             return;
         }
